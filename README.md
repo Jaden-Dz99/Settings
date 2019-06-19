@@ -1,2 +1,2 @@
 # settings
-JavaScript/PHP/SQL+more
+JavaScript / PHP / SQL + more
